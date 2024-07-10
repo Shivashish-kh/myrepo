@@ -1,0 +1,1 @@
+var git="Creating a file in gir directory";
